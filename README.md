@@ -1,4 +1,4 @@
                                    SIGNA AI
-A project about how Digital humans will be used to bridge the gap between those 
-who can speek and those who can't.
+A project on bridging the gap between the hearing impared and they with the ability to hear by use of Digital Humans.
 
+am very happy guys
